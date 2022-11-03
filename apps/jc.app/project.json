@@ -1,0 +1,7 @@
+{
+  "name": "jc.app",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/jc.app/src",
+  "projectType": "application",
+  "tags": []
+}
